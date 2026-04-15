@@ -101,5 +101,19 @@ Table and column names have been generalised to protect sensitive business infor
 
 ---
 
-## 📷 Screenshots
+## 📷 Dashboard Screenshots
 
+### Migration Overview
+Shows overall migration progress, including total in scope, migrated, eligible, and exceptions.
+
+![Migration Overview](https://raw.githubusercontent.com/APape95/Customer-Migration-Tracking-Fenergo-Implementation-/main/Migration%20Dashboard%20-%20Customer%20info%20removed.png)
+
+---
+
+### Exception Breakdown
+Breakdown of migration blockers by category, enabling targeted resolution.
+
+![Exception Breakdown](https://raw.githubusercontent.com/APape95/Customer-Migration-Tracking-Fenergo-Implementation-/main/Migration%20Dashboard%20-%20Exceptions%20-%20Customer%20info%20removed.png)
+
+
+## 📷
