@@ -115,5 +115,18 @@ Breakdown of migration blockers by category, enabling targeted resolution.
 
 ![Exception Breakdown](https://raw.githubusercontent.com/APape95/Customer-Migration-Tracking-Fenergo-Implementation-/main/Migration%20Dashboard%20-%20Exceptions%20-%20Customer%20info%20removed.png)
 
+---
 
-## 📷
+## 📢 Stakeholder Adoption & Impact
+
+### Go-Live Communication
+Following deployment, the dashboard was rolled out to Product and Tech stakeholders as the central source of truth for migration tracking.
+
+[![Go Live Email](images/go-live-email.png)](https://github.com/APape95/Customer-Migration-Tracking-Fenergo-Implementation-/blob/main/Migration%20Dashboard%20-%20Go%20Live%20communication.png)
+
+---
+
+### Early Success & Feedback
+Initial feedback highlighted improved visibility of migration progress and clearer identification of blockers.
+
+[![Stakeholder Feedback](images/feedback-email.png)](https://github.com/APape95/Customer-Migration-Tracking-Fenergo-Implementation-/blob/main/Migration%20Dashboard%20-%20success%20story.png)
